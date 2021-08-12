@@ -1,0 +1,133 @@
+.navigation__title{
+    color:#ffffff;
+   
+}
+
+.navigation__title a{
+  text-decoration: none;
+  color:#ffffff;
+  font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.navigation__menu-btn{
+    width: 3rem;
+    height: 3rem;
+    background: transparent;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-right: 2rem;
+    cursor: pointer;
+}
+.navigation__menu-btn span {
+    display: block;
+    width: 3rem;
+    height: 2.5px;
+    background: white;
+  }
+
+  .navigation__header-nav {
+    display: none;
+    
+  }
+
+  .main-navigation__drawer-nav {
+    height: 100%;
+    margin-top: 23px;
+  }
+
+  .drawer__image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  .drawer__image img{
+    border-radius: 50%;
+    width: 40%;
+    
+  }
+
+  .drawer__title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+    border-bottom: 2px solid rgb(212, 206, 206);
+  }
+  .drawer__title h4{
+    font-weight: lighter;
+    color: rgb(189, 178, 178);
+    padding-bottom: 12px;
+    
+  }
+
+.nav-links{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100;
+    padding-right: 1rem;
+    padding-top: 1rem;
+}
+.nav-links li{
+    margin: 1rem;
+}
+
+.nav-links a{
+    padding: 8px;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+.nav-links a:hover,
+.nav-links a:active,
+.nav-links a.active {
+  background: #ffffff;
+  font-weight: bold;
+  color: #070707;
+}
+
+.nav-links li:hover{
+  transition: all .1s ease-in-out;
+  transform: scale(1.07);
+  
+  
+}
+
+
+
+@media (min-width: 768px) {
+    .navigation__menu-btn {
+      display: none;
+    }
+  
+    .navigation__header-nav {
+      display: block;
+    }
+    
+  }
+@media (min-width: 768px) {
+    .nav-links {
+      flex-direction: row;
+    }
+  
+    .nav-links li {
+      margin: 0 0.5rem;
+  
+    }
+  
+    .nav-links a {
+      color: white;
+      text-decoration: none;
+      
+    }
+    
+
+}
