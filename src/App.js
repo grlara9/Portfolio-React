@@ -8,20 +8,20 @@ import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 function App() {
   return (
     <Router>
-    <Navigation />
-    <main>
-      <Switch>
-      <Route path="/portfolio"> 
+      <Navigation />
+      <main>
+        <Switch>
+          <Route path="/portfolio"> 
             <Portfolio />
           </Route>
-      <Route path="/contact"> 
+          <Route path="/contact"> 
             <Contact />
           </Route>
-      <Route path="/"> 
+          <Route path="/"> 
             <Aboutme />
           </Route>
-       </Switch>
-    </main>
+        </Switch>
+      </main>
   </Router>
   );
 }
