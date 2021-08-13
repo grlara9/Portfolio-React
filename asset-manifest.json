@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/portfolio-react/static/js/main.ed4f160c.chunk.js",
-    "main.js.map": "/portfolio-react/static/js/main.ed4f160c.chunk.js.map",
-    "runtime-main.js": "/portfolio-react/static/js/runtime-main.952eb3e6.js",
-    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.952eb3e6.js.map",
-    "static/js/2.1ec981e1.chunk.js": "/portfolio-react/static/js/2.1ec981e1.chunk.js",
-    "static/js/2.1ec981e1.chunk.js.map": "/portfolio-react/static/js/2.1ec981e1.chunk.js.map",
-    "static/js/3.db8ca09d.chunk.js": "/portfolio-react/static/js/3.db8ca09d.chunk.js",
-    "static/js/3.db8ca09d.chunk.js.map": "/portfolio-react/static/js/3.db8ca09d.chunk.js.map",
+    "main.css": "/portfolio-react/static/css/main.237316f9.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.ab42f48e.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.ab42f48e.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.38e58feb.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.38e58feb.js.map",
+    "static/js/2.74e2f9b0.chunk.js": "/portfolio-react/static/js/2.74e2f9b0.chunk.js",
+    "static/js/2.74e2f9b0.chunk.js.map": "/portfolio-react/static/js/2.74e2f9b0.chunk.js.map",
+    "static/js/3.3d2db202.chunk.js": "/portfolio-react/static/js/3.3d2db202.chunk.js",
+    "static/js/3.3d2db202.chunk.js.map": "/portfolio-react/static/js/3.3d2db202.chunk.js.map",
     "index.html": "/portfolio-react/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/portfolio-react/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.1ec981e1.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.1ec981e1.chunk.js.LICENSE.txt"
+    "static/css/main.237316f9.chunk.css.map": "/portfolio-react/static/css/main.237316f9.chunk.css.map",
+    "static/js/2.74e2f9b0.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.74e2f9b0.chunk.js.LICENSE.txt",
+    "static/media/guillermo.581d4968.jpg": "/portfolio-react/static/media/guillermo.581d4968.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.952eb3e6.js",
-    "static/js/2.1ec981e1.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.ed4f160c.chunk.js"
+    "static/js/runtime-main.38e58feb.js",
+    "static/js/2.74e2f9b0.chunk.js",
+    "static/css/main.237316f9.chunk.css",
+    "static/js/main.ab42f48e.chunk.js"
   ]
 }
