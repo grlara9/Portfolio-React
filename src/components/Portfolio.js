@@ -5,6 +5,7 @@ import click from '../images/dbz2.png'
 import weatherapp from '../images/weatherapp.png'
 import burger from '../images/bur.png'
 import movies from '../images/movies.png'
+import newweather from '../images/newweather.png'
 import './Portfolio.css'; 
 
 const Portfolio =()=>{
@@ -89,18 +90,18 @@ const Portfolio =()=>{
 
             <div className="project">
             <div className="project__image">
-            <a href="https://grlara9.github.io/react-weather-app-hooks/">
-                    <img src={weatherapp} alt="project image" />
+            <a href="https://react-weather-50a75.web.app/">
+                    <img src={newweather} alt="project image" />
                        
                     </a>
                     <h1>React Weather App</h1>
                 </div>
                 <div className="project__specification">
-                    <p>A Weather app built in React js using OpenWeathermap API. User can search by typing city. Default temperature is the users location.</p>
+                    <p>This is a full responsive project designed with CSS, React-bootstrap, Js, and Reaxt JS . I used metaweather.com API to enable users to search for weather from their current city or any other place.</p>
                 </div>
                 <div className="project__links">
                     
-                    <a href="https://github.com/grlara9/react-weather-app-hooks">
+                    <a href="https://github.com/grlara9/weather-app-reactjs">
                         <button class="views btn btn-lg btn-outline-secondary">View</button>
                     </a>
                 </div>
