@@ -2,13 +2,14 @@ import React from 'react'
 import amazon2 from '../images/amazon2.png'
 import googlemern from '../images/google-mern.png'
 import click from '../images/dbz2.png'
-import weatherapp from '../images/weatherapp.png'
 import burger from '../images/bur.png'
 import movies from '../images/movies.png'
 import newweather from '../images/newweather.png'
 import './Portfolio.css'; 
 
 const Portfolio =()=>{
+
+   
     return(
         <div className="portfolio">
  
